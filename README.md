@@ -1,10 +1,8 @@
-# Magisk-Modules-Spesn-EvoX
+## Dolby Atmos Magic for Android 14
 Hello Everyone!!
+I am here to give you all Android 14 users Dolby Atmos Magic Revision! I hope you all enjoy this and enjoy!
 
-Thanks for visiting this repository!
+Thanks for using Dolby Atmos Magic Module! I hope you all have a great day!
 
-This repository is just a pile of modules that have been uploaded here and does work on EvoX 8.3(Balut) Unofficial.
-
-Enjoy!!
-
-Disclaimer: These modules have been tested and working on spesn 6/128 GB EvoX 8.3 Unofficial. I am not responsible for anything that happened to your devices. These modules are also not made by myself. 
+Credit:
+- Rei Ryuki the Fixer for base Module
