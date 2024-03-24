@@ -1,4 +1,4 @@
-# Magisk-Modules-Spesn-EvoX
+# Magisk-Modules-Spesn
 Hello Everyone!!
 
 Thanks for visiting this repository!
